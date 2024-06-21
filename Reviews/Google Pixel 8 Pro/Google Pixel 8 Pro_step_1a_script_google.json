@@ -1,0 +1,107 @@
+{
+    "reviewers_sources": [
+        {
+            "reviewer": "Marques Brownlee (MKBHD)",
+            "link": "https://www.youtube.com/user/MKBHD",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "Linus Tech Tips",
+            "link": "https://www.youtube.com/user/LinusTechTips",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "Dave Lee (Dave2D)",
+            "link": "https://www.youtube.com/c/Dave2D",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "The Verge",
+            "link": "https://www.youtube.com/user/TheVerge",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "TechCrunch",
+            "link": "https://www.youtube.com/user/TechCrunch",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "Android Authority",
+            "link": "https://www.youtube.com/user/AndroidAuthority",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "CNET",
+            "link": "https://www.youtube.com/user/CNETTV",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "Mrwhosetheboss",
+            "link": "https://www.youtube.com/user/Mrwhosetheboss",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "GSMArena",
+            "link": "https://www.youtube.com/user/GSMArenaOfficial",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "Geekyranjit",
+            "link": "https://www.youtube.com/user/Geekyranjit",
+            "rationale": "Asked for by the User, relevant to Indian audiences"
+        },
+        {
+            "reviewer": "The Guardian",
+            "link": "https://www.theguardian.com/technology",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "The Hindu",
+            "link": "https://www.thehindu.com/technology/",
+            "rationale": "Asked for by the User, relevant to Indian audiences"
+        },
+        {
+            "reviewer": "Indian Express",
+            "link": "https://indianexpress.com/section/technology/",
+            "rationale": "Asked for by the User, relevant to Indian audiences"
+        }
+    ],
+    "scenes": [
+        {
+            "scene_name": "Introduction",
+            "description": "Briefly introduce the Google Pixel 8 Pro, highlighting its key features such as the Google Tensor G3, camera capabilities, and target audience. Briefly mention the Indian context if applicable (e.g., pricing, availability)."
+        },
+        {
+            "scene_name": "Design",
+            "description": "Discuss the design of the Pixel 8 Pro, including its materials, build quality, and aesthetics. Highlight any design elements specific to the Indian market, if any."
+        },
+        {
+            "scene_name": "Display",
+            "description": "Analyze the display quality, including resolution, refresh rate, brightness, color accuracy, and how it performs outdoors. Compare it with other popular phones in India."
+        },
+        {
+            "scene_name": "Performance",
+            "description": "Evaluate the device's overall performance, focusing on the Google Tensor G3 processor, RAM, storage, and benchmarks. Discuss gaming performance, considering its relevance to the Indian market."
+        },
+        {
+            "scene_name": "Battery Life",
+            "description": "Assess the battery life based on average usage, charging speed, and battery health features. Compare it with the battery life of other phones popular in India."
+        },
+        {
+            "scene_name": "Camera",
+            "description": "Thoroughly analyze the camera system, covering resolution, features, image quality in various lighting conditions, and video recording capabilities.  Compare its camera performance with other phones popular in India. Show photo and video samples."
+        },
+        {
+            "scene_name": "Software",
+            "description": "Discuss the Android 14 operating system, user interface, and unique software features, especially those relevant to the Indian market (e.g., language support)."
+        },
+        {
+            "scene_name": "Value for Money",
+            "description": "Analyze the price of the Pixel 8 Pro in the Indian market and compare it to its features and performance. Discuss if it offers good value for money compared to its competitors in India."
+        },
+        {
+            "scene_name": "Conclusion",
+            "description": "Summarize your overall opinion of the Pixel 8 Pro, including its strengths, weaknesses, and how it stacks up against competitors in India.  Give your recommendation considering the Indian market."
+        }
+    ]
+}

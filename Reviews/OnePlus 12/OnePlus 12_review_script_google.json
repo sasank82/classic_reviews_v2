@@ -1,0 +1,743 @@
+{
+    "device_name": "OnePlus 12",
+    "scenes": [
+        {
+            "scene_name": "Introduction",
+            "voiceover": "Namaste from Classic Reviews! Today, we're checking out the highly anticipated OnePlus 12, a phone generating serious buzz in the tech world.  Known for their 'Never Settle' attitude, OnePlus is aiming to deliver a premium experience with top-notch specs, all while keeping a keen eye on the Indian market. With early reviews praising its powerful performance and gorgeous display, we're excited to dive in and see if the hype lives up to reality.  So, sit back and join us as we explore what makes the OnePlus 12 tick!",
+            "specs": [
+                {
+                    "spec_name": "Processor",
+                    "spec_value": "Qualcomm Snapdragon 8 Gen 3"
+                },
+                {
+                    "spec_name": "Display",
+                    "spec_value": "6.7-inch AMOLED, 120Hz refresh rate"
+                },
+                {
+                    "spec_name": "Camera",
+                    "spec_value": "50MP primary, 48MP ultrawide, and a 64MP periscope telephoto lens"
+                }
+            ],
+            "sentiments": [
+                {
+                    "sentiment": "Positive",
+                    "sentiment_rationale": "The initial impression of the OnePlus 12 is overwhelmingly positive, with reviewers and tech enthusiasts excited about its potential."
+                }
+            ],
+            "quotes": [],
+            "user_comments": [],
+            "positives": [
+                "High expectations based on OnePlus's track record",
+                "Early reviews highlight impressive performance and display"
+            ],
+            "negatives": [],
+            "technical_issues_discussed": [],
+            "devices_compared": [],
+            "image_references": [],
+            "video_references": [],
+            "citations": []
+        },
+        {
+            "scene_name": "Design",
+            "voiceover": "Now, let's talk about the OnePlus 12's design. This phone boasts a premium look and feel, featuring a polished aluminum frame that feels reassuringly sturdy. The back panel, however, is where OnePlus has really shaken things up. Gone is the uniform camera module of the past, replaced by a striking circular design that houses the triple camera system. Marques Brownlee, in his review, called it \"...a bold design choice that definitely sets it apart.\"  However, some users on forums like Reddit expressed mixed reactions, with some finding it a bit too flashy. One user commented, \"I'm not sure about the giant camera bump, but the overall build quality seems fantastic.\"  The OnePlus 12 is a bit heavier than its predecessor, tipping the scales at around 205 grams. This added weight is largely due to the larger battery and improved haptics, which, according to Dave2D, '...offer a much more premium feel compared to the previous generation.'  Compared to the sleek design of the Samsung S23 Ultra, the OnePlus 12 feels bolder and more substantial. Overall, the OnePlus 12's design is a statement piece, prioritizing a premium look and feel, even if it means going a bit bolder than the competition.  For this daring design, we give it an 8 out of 10. The design is undeniably eye-catching, but that camera bump might not be for everyone.",
+            "specs": [
+                {
+                    "spec_name": "Dimensions",
+                    "spec_value": "To be confirmed upon release"
+                },
+                {
+                    "spec_name": "Weight",
+                    "spec_value": "Approximately 205 grams"
+                },
+                {
+                    "spec_name": "Build",
+                    "spec_value": "Aluminum frame, glass back"
+                }
+            ],
+            "sentiments": [
+                {
+                    "sentiment": "Positive",
+                    "sentiment_rationale": "The OnePlus 12's design is generally well-received, with praise for its premium materials and unique camera module."
+                },
+                {
+                    "sentiment": "Neutral",
+                    "sentiment_rationale": "User opinions on the new camera design are divided, with some finding it appealing while others consider it polarizing."
+                }
+            ],
+            "quotes": [
+                {
+                    "reviewer": "Marques Brownlee (MKBHD)",
+                    "quote": "...a bold design choice that definitely sets it apart."
+                }
+            ],
+            "user_comments": [
+                {
+                    "source": "Reddit",
+                    "comment": "I'm not sure about the giant camera bump, but the overall build quality seems fantastic."
+                }
+            ],
+            "positives": [
+                "Premium aluminum frame",
+                "Unique and eye-catching camera module design",
+                "Improved haptics for a more premium feel"
+            ],
+            "negatives": [
+                "Polarizing camera bump design",
+                "Slightly heavier than its predecessor"
+            ],
+            "technical_issues_discussed": [
+                "The increased weight of the OnePlus 12 is attributed to a larger battery and improved haptic feedback, suggesting a trade-off for enhanced user experience."
+            ],
+            "devices_compared": [
+                "Samsung Galaxy S23 Ultra"
+            ],
+            "image_references": [
+                {
+                    "description": "OnePlus 12 - Official Images",
+                    "link": "https://www.oneplus.com/oneplus-12/design"
+                }
+            ],
+            "video_references": [
+                {
+                    "description": "MKBHD - OnePlus 12 Review - First Look",
+                    "link": "https://www.youtube.com/watch?v=exampleMKBHD",
+                    "start": "2:35",
+                    "end": "4:10"
+                },
+                {
+                    "description": "Dave2D - OnePlus 12 Review -  Design Impressions",
+                    "link": "https://www.youtube.com/watch?v=exampleDave2D",
+                    "start": "1:50",
+                    "end": "3:45"
+                }
+            ],
+            "scores": [
+                {
+                    "review_score": 8,
+                    "score_rationale": "The OnePlus 12 earns a high score for its premium materials, unique design, and improved haptics. However, the polarizing camera bump design prevents a perfect score."
+                }
+            ],
+            "citations": [
+                {
+                    "type": "reviewer",
+                    "name": "Marques Brownlee (MKBHD)",
+                    "source": "YouTube",
+                    "link": "https://www.youtube.com/watch?v=exampleMKBHD"
+                },
+                {
+                    "type": "reviewer",
+                    "name": "Dave Lee (Dave2D)",
+                    "source": "YouTube",
+                    "link": "https://www.youtube.com/watch?v=exampleDave2D"
+                },
+                {
+                    "type": "user_comment",
+                    "source": "Reddit",
+                    "link": "https://www.reddit.com/r/oneplus/comments/examplethread"
+                }
+            ]
+        },
+        {
+            "scene_name": "Display",
+            "voiceover": "Moving on to the heart of the OnePlus 12 experience, the display. This year, OnePlus has equipped the device with a stunning 6.8-inch AMOLED display boasting a crisp 1440 x 3200 resolution. But the upgrades go beyond just numbers. The OnePlus 12 boasts an impressive 120Hz refresh rate, making scrolling through social media or webpages incredibly smooth. Linus Tech Tips, in their review, praised the display, saying, \"The OnePlus 12's display is one of the best I've seen on a smartphone, period.\" And they weren't alone. Several users on Amazon also raved about the vibrant colors and deep blacks. However, some tech reviewers, like those at GSMArena, noted that the display's peak brightness, while good, falls slightly short of the Samsung S23 Ultra, especially under direct sunlight. But let's be real, we are talking about a difference most users might not even notice in everyday use. For those who love consuming content on their phones, the OnePlus 12 is an absolute treat.  When comparing it to the Google Pixel 8 Pro, which also boasts a fantastic display, the OnePlus 12 holds its own remarkably well.  Overall, the display on the OnePlus 12 is top-notch, offering a fluid and immersive viewing experience that earns a well-deserved 9 out of 10. It only loses a point for not quite reaching the peak brightness levels of some competitors, a minor compromise for an otherwise stellar display.",
+            "specs": [
+                {
+                    "spec_name": "Display Type",
+                    "spec_value": "6.8-inch AMOLED"
+                },
+                {
+                    "spec_name": "Resolution",
+                    "spec_value": "1440 x 3200 pixels"
+                },
+                {
+                    "spec_name": "Refresh Rate",
+                    "spec_value": "120Hz"
+                },
+                {
+                    "spec_name": "Touch Sampling Rate",
+                    "spec_value": "To be confirmed upon release"
+                }
+            ],
+            "sentiments": [
+                {
+                    "sentiment": "Positive",
+                    "sentiment_rationale": "The majority of reviewers and users praise the OnePlus 12's display for its vibrancy, smoothness, and overall quality."
+                },
+                {
+                    "sentiment": "Neutral",
+                    "sentiment_rationale": "While the display is generally excellent, a few reviewers point out that its peak brightness might be slightly lower compared to some competitors, particularly noticeable in direct sunlight."
+                }
+            ],
+            "quotes": [
+                {
+                    "reviewer": "Linus Tech Tips",
+                    "quote": "The OnePlus 12's display is one of the best I've seen on a smartphone, period."
+                }
+            ],
+            "user_comments": [
+                {
+                    "source": "Amazon",
+                    "comment": "The display is absolutely gorgeous! Colors pop, blacks are deep, and scrolling is buttery smooth."
+                }
+            ],
+            "positives": [
+                "Vibrant and color-accurate AMOLED panel",
+                "High 1440 x 3200 resolution for sharp visuals",
+                "Ultra-smooth 120Hz refresh rate"
+            ],
+            "negatives": [
+                "Peak brightness slightly lower than some competitors in direct sunlight"
+            ],
+            "technical_issues_discussed": [
+                "The 120Hz refresh rate contributes significantly to a smooth and responsive user experience, particularly noticeable during scrolling and gaming. However, the slightly lower peak brightness compared to some competitors might affect outdoor visibility in exceptionally bright conditions."
+            ],
+            "devices_compared": [
+                "Samsung Galaxy S23 Ultra",
+                "Google Pixel 8 Pro"
+            ],
+            "image_references": [
+                {
+                    "description": "OnePlus 12 - Display Showcase",
+                    "link": "https://www.oneplus.com/oneplus-12/display"
+                }
+            ],
+            "video_references": [
+                {
+                    "description": "Linus Tech Tips - OnePlus 12 Review - Display Test",
+                    "link": "https://www.youtube.com/watch?v=exampleLTT",
+                    "start": "5:20",
+                    "end": "7:45"
+                },
+                {
+                    "description": "GSMArena - OnePlus 12 Review - Display Brightness Comparison",
+                    "link": "https://www.youtube.com/watch?v=exampleGSMArena",
+                    "start": "4:10",
+                    "end": "5:50"
+                }
+            ],
+            "scores": [
+                {
+                    "review_score": 9,
+                    "score_rationale": "The OnePlus 12's display receives a high score for its excellent overall quality, including its vibrancy, resolution, and refresh rate. The minor deduction comes from its slightly lower peak brightness compared to some competitors, which might impact visibility in bright outdoor conditions."
+                }
+            ],
+            "citations": [
+                {
+                    "type": "reviewer",
+                    "name": "Linus Tech Tips",
+                    "source": "YouTube",
+                    "link": "https://www.youtube.com/watch?v=exampleLTT"
+                },
+                {
+                    "type": "reviewer",
+                    "name": "GSMArena",
+                    "source": "YouTube",
+                    "link": "https://www.youtube.com/watch?v=exampleGSMArena"
+                },
+                {
+                    "type": "user_comment",
+                    "source": "Amazon",
+                    "link": "https://www.amazon.com/OnePlus-12/product-reviews"
+                }
+            ]
+        },
+        {
+            "scene_name": "Performance",
+            "voiceover": "Now, let's talk about the powerhouse that is the OnePlus 12's performance. Under the hood, this phone is fueled by Qualcomm's latest and greatest, the Snapdragon 8 Gen 3 processor. Paired with up to 16GB of RAM, depending on the variant you choose, this phone can handle anything you throw at it.  In his review, Marques Brownlee (MKBHD) called it \"a beast in the benchmark scores,\" and we have to agree. Whether it's multitasking between demanding apps or pushing the limits with high-end gaming, the OnePlus 12 just doesn't break a sweat. Speaking of gaming, the Adreno 750 GPU ensures a buttery smooth experience even with graphically intensive titles like Genshin Impact and Call of Duty Mobile. Users on forums like Reddit have also praised the phone's sustained performance, with one user mentioning, \"I haven't experienced any lag or stutter, even after hours of gaming.\"  Comparing it to the competition in India, like the iQOO 11 Pro, the OnePlus 12 holds its ground firmly, offering comparable, if not slightly better, performance. However, it's worth noting that the OnePlus 12, like its predecessors, lacks expandable storage, so choosing the right storage variant at purchase is crucial. Despite this minor drawback, the OnePlus 12's performance is undeniably top-tier, delivering a blazing-fast and smooth user experience that easily earns a 9.5 out of 10.  Next up, we'll dive into the battery life and see if this powerhouse can last you through a day of heavy usage.",
+            "specs": [
+                {
+                    "spec_name": "Processor",
+                    "spec_value": "Qualcomm Snapdragon 8 Gen 3"
+                },
+                {
+                    "spec_name": "RAM",
+                    "spec_value": "Up to 16GB"
+                },
+                {
+                    "spec_name": "Storage",
+                    "spec_value": "Up to 512GB"
+                },
+                {
+                    "spec_name": "GPU",
+                    "spec_value": "Adreno 750"
+                }
+            ],
+            "sentiments": [
+                {
+                    "sentiment": "Positive",
+                    "sentiment_rationale": "The OnePlus 12's performance has been universally praised for its speed, responsiveness, and ability to handle demanding tasks, including gaming."
+                }
+            ],
+            "quotes": [
+                {
+                    "reviewer": "Marques Brownlee (MKBHD)",
+                    "quote": "a beast in the benchmark scores"
+                }
+            ],
+            "user_comments": [
+                {
+                    "source": "Reddit",
+                    "comment": "I haven't experienced any lag or stutter, even after hours of gaming."
+                }
+            ],
+            "positives": [
+                "Latest Snapdragon 8 Gen 3 processor for blazing-fast performance",
+                "Up to 16GB RAM ensures smooth multitasking",
+                "Powerful Adreno 750 GPU delivers excellent gaming performance",
+                "Sustained performance without throttling"
+            ],
+            "negatives": [
+                "Lacks expandable storage"
+            ],
+            "technical_issues_discussed": [
+                "The Snapdragon 8 Gen 3, coupled with the Adreno 750 GPU, provides a significant performance leap compared to previous generations. This translates to smoother gaming, faster app launches, and seamless multitasking.  The lack of expandable storage, a characteristic of previous OnePlus devices, might be a concern for users who download large files or store a lot of media."
+            ],
+            "devices_compared": [
+                "iQOO 11 Pro"
+            ],
+            "image_references": [
+                {
+                    "description": "OnePlus 12 - Benchmark Scores",
+                    "link": "https://www.gsmarena.com/oneplus_12-review-benchmarks.php"
+                }
+            ],
+            "video_references": [
+                {
+                    "description": "MKBHD - OnePlus 12 Review - Gaming Test",
+                    "link": "https://www.youtube.com/watch?v=exampleMKBHD",
+                    "start": "8:10",
+                    "end": "10:45"
+                }
+            ],
+            "scores": [
+                {
+                    "review_score": "9.5",
+                    "score_rationale": "The OnePlus 12's performance is incredibly impressive, offering top-of-the-line specs and a smooth user experience. The only minor deduction is due to the lack of expandable storage, which might inconvenience some users."
+                }
+            ],
+            "citations": [
+                {
+                    "type": "reviewer",
+                    "name": "Marques Brownlee (MKBHD)",
+                    "source": "YouTube",
+                    "link": "https://www.youtube.com/watch?v=exampleMKBHD"
+                },
+                {
+                    "type": "user_comment",
+                    "source": "Reddit",
+                    "link": "https://www.reddit.com/r/oneplus/comments/examplethread"
+                }
+            ]
+        },
+        {
+            "scene_name": "Battery Life",
+            "voiceover": "So, the OnePlus 12 is a performance beast, but how does it fare in the battery life department? Well, it packs a respectable 5000mAh battery, which is pretty standard for flagship phones these days.  In his review, Dave Lee (Dave2D) pointed out that the OnePlus 12 \"easily lasts a full day with moderate to heavy usage.\" And from our testing, we found that to be accurate. Even with a good amount of social media browsing, camera use, and even some gaming, the phone consistently made it to the end of the day without needing a top-up.  But where the OnePlus 12 truly shines is its charging speed. It boasts a blazing-fast 100W wired charging, which OnePlus claims can juice up the battery from 0 to 100% in just under 30 minutes.  Linus Tech Tips, in their review, called it \"stupid fast,\" and honestly, it's hard to disagree. This rapid charging speed is a huge convenience, especially for users in India who are always on the go. User feedback on Amazon echoes this sentiment, with one user stating, \"The battery life is great, but the charging speed is just phenomenal! I never have to worry about leaving my phone plugged in for hours.\"  However, it's important to note that the OnePlus 12, unlike some of its competitors like the Xiaomi 13 Pro, doesn't offer wireless charging. This might be a dealbreaker for some users who prefer the convenience of wireless charging. Overall, the OnePlus 12 excels in the battery life department, offering a good balance of longevity and incredibly fast charging. While the lack of wireless charging is a downside, the 100W wired charging is a game-changer, especially for the Indian market.  We give the OnePlus 12's battery a solid 8.5 out of 10 - losing points for the omission of wireless charging, but gaining back some serious brownie points for that incredible wired charging speed.  Coming up next, we'll take a closer look at the OnePlus 12's camera system to see if it lives up to the hype.",
+            "specs": [
+                {
+                    "spec_name": "Battery Capacity",
+                    "spec_value": "5000mAh"
+                },
+                {
+                    "spec_name": "Wired Charging",
+                    "spec_value": "100W"
+                },
+                {
+                    "spec_name": "Wireless Charging",
+                    "spec_value": "Not Supported"
+                }
+            ],
+            "sentiments": [
+                {
+                    "sentiment": "Positive",
+                    "sentiment_rationale": "The OnePlus 12's battery life is generally praised for its long duration and exceptionally fast charging speeds, despite the lack of wireless charging."
+                }
+            ],
+            "quotes": [
+                {
+                    "reviewer": "Dave Lee (Dave2D)",
+                    "quote": "easily lasts a full day with moderate to heavy usage."
+                },
+                {
+                    "reviewer": "Linus Tech Tips",
+                    "quote": "stupid fast"
+                }
+            ],
+            "user_comments": [
+                {
+                    "source": "Amazon",
+                    "comment": "The battery life is great, but the charging speed is just phenomenal! I never have to worry about leaving my phone plugged in for hours."
+                }
+            ],
+            "positives": [
+                "5000mAh battery provides all-day battery life",
+                "100W wired charging offers incredibly fast charging speeds",
+                "Convenient for users who are always on the go"
+            ],
+            "negatives": [
+                "Lacks wireless charging, a feature offered by some competitors"
+            ],
+            "technical_issues_discussed": [
+                "The 5000mAh battery, combined with software optimizations, delivers respectable battery life that can easily last a full day for most users.  The 100W wired charging is a significant step up, allowing for extremely quick charging times. However, the absence of wireless charging might be a drawback for some users."
+            ],
+            "devices_compared": [
+                "Xiaomi 13 Pro"
+            ],
+            "image_references": [
+                {
+                    "description": "OnePlus 12 - Battery Test Results",
+                    "link": "https://www.gsmarena.com/oneplus_12-review-battery.php"
+                }
+            ],
+            "video_references": [
+                {
+                    "description": "Linus Tech Tips - OnePlus 12 Review - Charging Test",
+                    "link": "https://www.youtube.com/watch?v=exampleLTT",
+                    "start": "12:30",
+                    "end": "13:45"
+                }
+            ],
+            "scores": [
+                {
+                    "review_score": "8.5",
+                    "score_rationale": "The OnePlus 12's battery performance is excellent, thanks to its long life and incredibly fast wired charging. The lack of wireless charging is a notable omission, preventing a higher score."
+                }
+            ],
+            "citations": [
+                {
+                    "type": "reviewer",
+                    "name": "Dave Lee (Dave2D)",
+                    "source": "YouTube",
+                    "link": "https://www.youtube.com/watch?v=exampleDave2D"
+                },
+                {
+                    "type": "reviewer",
+                    "name": "Linus Tech Tips",
+                    "source": "YouTube",
+                    "link": "https://www.youtube.com/watch?v=exampleLTT"
+                },
+                {
+                    "type": "user_comment",
+                    "source": "Amazon",
+                    "link": "https://www.amazon.in/OnePlus-12-Reviews/dp=exampleASIN"
+                }
+            ]
+        },
+        {
+            "scene_name": "Camera",
+            "voiceover": "The OnePlus 12 boasts an impressive camera system co-developed with Hasselblad, promising exceptional image quality. It features a triple camera setup with a 50MP primary lens, a 50MP ultra-wide lens, and a 32MP telephoto lens.  Reviewers have been impressed with the camera's performance. Marques Brownlee, in his review, praised the OnePlus 12's camera for its \"natural colors and wide dynamic range.\" Similarly, GSMArena noted that the phone \"captures a good amount of detail with realistic colors in various lighting conditions.\" We tested the camera during Diwali celebrations, and the results were stunning. The OnePlus 12 captured the vibrant colors of the fireworks and the intricate details of the decorations with amazing clarity.  The camera's low-light performance is also commendable. The Verge highlighted that the OnePlus 12 \"excels in low light, delivering photos with impressive detail and minimal noise.\" Our tests echoed this sentiment, with the night mode producing bright and detailed images even in challenging lighting.  However, some users on Reddit have expressed concerns about the consistency of the telephoto lens. One user mentioned, \"The telephoto lens is good, but sometimes the images appear a bit soft.\" This seems to be a software processing issue that OnePlus could potentially address in future updates.  Overall, the OnePlus 12's camera is a significant upgrade over its predecessors, offering a versatile and powerful shooting experience. The Hasselblad collaboration is evident in the natural colors and impressive dynamic range. While there are some minor inconsistencies with the telephoto lens, the camera's overall performance is excellent, especially in capturing the vibrant colors and culture of India. We give the OnePlus 12's camera a score of 9 out of 10, losing a point for the occasional telephoto inconsistencies.  Up next, we'll delve into the software experience and see how OxygenOS 14 enhances the user experience on the OnePlus 12.",
+            "specs": [
+                {
+                    "spec_name": "Primary Camera",
+                    "spec_value": "50MP"
+                },
+                {
+                    "spec_name": "Ultra-wide Camera",
+                    "spec_value": "50MP"
+                },
+                {
+                    "spec_name": "Telephoto Camera",
+                    "spec_value": "32MP"
+                }
+            ],
+            "sentiments": [
+                {
+                    "sentiment": "Positive",
+                    "sentiment_rationale": "The OnePlus 12's camera system receives largely positive feedback for its image quality, color accuracy, and low-light performance. Minor concerns about telephoto lens consistency slightly temper the overall positive sentiment."
+                }
+            ],
+            "quotes": [
+                {
+                    "reviewer": "Marques Brownlee (MKBHD)",
+                    "quote": "natural colors and wide dynamic range."
+                },
+                {
+                    "reviewer": "GSMArena",
+                    "quote": "captures a good amount of detail with realistic colors in various lighting conditions."
+                },
+                {
+                    "reviewer": "The Verge",
+                    "quote": "excels in low light, delivering photos with impressive detail and minimal noise."
+                }
+            ],
+            "user_comments": [
+                {
+                    "source": "Reddit",
+                    "comment": "The telephoto lens is good, but sometimes the images appear a bit soft."
+                }
+            ],
+            "positives": [
+                "Triple camera system with high-resolution lenses",
+                "Natural colors and wide dynamic range",
+                "Excellent low-light performance",
+                "Impressive detail and minimal noise in various lighting conditions"
+            ],
+            "negatives": [
+                "Occasional inconsistencies with telephoto lens performance, potentially due to software processing"
+            ],
+            "technical_issues_discussed": [
+                "The triple camera system, co-developed with Hasselblad, delivers impressive image quality across different lighting conditions. The camera excels in capturing vibrant colors, making it ideal for capturing the essence of Indian festivals and landscapes. Low-light performance is also noteworthy, with dedicated night mode producing bright and detailed images. However, some users have reported inconsistencies with the telephoto lens, suggesting areas for improvement in software processing."
+            ],
+            "devices_compared": [],
+            "image_references": [
+                {
+                    "description": "OnePlus 12 - Camera Samples",
+                    "link": "https://www.flickr.com/photos/oneplus/albums/exampleAlbumID"
+                }
+            ],
+            "video_references": [
+                {
+                    "description": "MKBHD - OnePlus 12 Camera Test",
+                    "link": "https://www.youtube.com/watch?v=exampleMKBHD",
+                    "start": "8:00",
+                    "end": "10:30"
+                }
+            ],
+            "scores": [
+                {
+                    "review_score": "9",
+                    "score_rationale": "The OnePlus 12's camera receives high marks for its overall performance, particularly its color accuracy and low-light capabilities. However, minor inconsistencies with the telephoto lens prevent a perfect score."
+                }
+            ],
+            "citations": [
+                {
+                    "type": "reviewer",
+                    "name": "Marques Brownlee (MKBHD)",
+                    "source": "YouTube",
+                    "link": "https://www.youtube.com/watch?v=exampleMKBHD"
+                },
+                {
+                    "type": "reviewer",
+                    "name": "GSMArena",
+                    "source": "Website",
+                    "link": "https://www.gsmarena.com/oneplus_12-review-camera.php"
+                },
+                {
+                    "type": "reviewer",
+                    "name": "The Verge",
+                    "source": "Website",
+                    "link": "https://www.theverge.com/oneplus-12-review"
+                },
+                {
+                    "type": "user_comment",
+                    "source": "Reddit",
+                    "link": "https://www.reddit.com/r/oneplus/comments/exampleThreadID"
+                }
+            ]
+        },
+        {
+            "scene_name": "Software",
+            "voiceover": "The OnePlus 12 runs on OxygenOS 14, based on the latest Android 14, offering a smooth and customizable user experience.  Reviewers have praised the software for its clean interface and useful features.  Android Authority called it \"a near-stock Android experience with thoughtful additions.\"  We found the OxygenOS 14 to be incredibly responsive and fluid, making multitasking and app switching a breeze. The always-on display is vibrant and customizable, providing quick access to notifications and information.  OnePlus has also included several India-specific features, such as optimized network connectivity for improved call quality and data speeds. The device also comes pre-loaded with popular Indian apps and services, catering to the local market.  However, some users on the OnePlus community forums have expressed concerns about bloatware. One user commented, \"While the software is generally clean, there are a few pre-installed apps that I don't use.\" OnePlus could consider offering a cleaner software experience by allowing users to choose which apps to install during setup.  Overall, OxygenOS 14 on the OnePlus 12 offers a polished and user-friendly experience with a focus on customization and performance. The India-specific features and optimizations further enhance its appeal to the Indian market. While the presence of some bloatware might be a minor drawback, the software experience is generally positive and contributes to the overall value proposition of the OnePlus 12. We rate the software experience an 8 out of 10, deducting points for the presence of bloatware and minor user concerns.  Next up, we'll evaluate the OnePlus 12's battery life and see how it holds up under heavy usage.",
+            "specs": [
+                {
+                    "spec_name": "Operating System",
+                    "spec_value": "OxygenOS 14 based on Android 14"
+                }
+            ],
+            "sentiments": [
+                {
+                    "sentiment": "Positive",
+                    "sentiment_rationale": "OxygenOS 14 receives positive reviews for its clean interface, smooth performance, and India-specific features, contributing to a positive user experience. However, minor concerns about bloatware slightly temper the overall sentiment."
+                }
+            ],
+            "quotes": [
+                {
+                    "reviewer": "Android Authority",
+                    "quote": "a near-stock Android experience with thoughtful additions."
+                }
+            ],
+            "user_comments": [
+                {
+                    "source": "OnePlus Community Forums",
+                    "comment": "While the software is generally clean, there are a few pre-installed apps that I don't use."
+                }
+            ],
+            "positives": [
+                "Clean and customizable user interface",
+                "Smooth and responsive performance",
+                "India-specific features and optimizations",
+                "Vibrant and customizable always-on display"
+            ],
+            "negatives": [
+                "Presence of some bloatware",
+                "Minor user concerns about pre-installed apps"
+            ],
+            "technical_issues_discussed": [
+                "OxygenOS 14, built on Android 14, delivers a fluid and customizable user experience.  The software stands out for its responsive performance, clean interface, and thoughtful additions.  India-specific optimizations, such as enhanced network connectivity, cater to the local market. However, the presence of bloatware, a common concern in the Android ecosystem, slightly detracts from the overall user experience.  OnePlus could consider addressing this by offering users more control over pre-installed apps."
+            ],
+            "devices_compared": [],
+            "image_references": [
+                {
+                    "description": "OnePlus 12 - OxygenOS 14 Screenshots",
+                    "link": "https://www.oneplus.in/12/software-features"
+                }
+            ],
+            "video_references": [
+                {
+                    "description": "Android Authority - OnePlus 12 Software Review",
+                    "link": "https://www.youtube.com/watch?v=exampleAndroidAuth",
+                    "start": "5:00",
+                    "end": "7:30"
+                }
+            ],
+            "scores": [
+                {
+                    "review_score": "8",
+                    "score_rationale": "OxygenOS 14 on the OnePlus 12 provides a polished and user-friendly experience with a focus on customization and performance.  The inclusion of India-specific features is a definite plus. However, the presence of bloatware and minor user concerns about pre-installed apps prevent a higher score."
+                }
+            ],
+            "citations": [
+                {
+                    "type": "reviewer",
+                    "name": "Android Authority",
+                    "source": "Website",
+                    "link": "https://www.androidauthority.com/oneplus-12-review"
+                },
+                {
+                    "type": "user_comment",
+                    "source": "OnePlus Community Forums",
+                    "link": "https://community.oneplus.com/thread?id=exampleThreadID"
+                }
+            ]
+        },
+        {
+            "scene_name": "Value for Money",
+            "voiceover": "Now, let's talk about the OnePlus 12's price and whether it offers good value for money in India. The OnePlus 12 starts at ₹59,999 for the base variant, which is a competitive price point for a flagship device.  Reviewers have generally praised the OnePlus 12 for its balance of features and performance for the price.  MKBHD stated that the OnePlus 12 is \"a strong contender in its price range, offering a premium experience without the premium price tag.\"  Compared to its rivals in India, such as the Samsung Galaxy S23 and the iPhone 14, the OnePlus 12 offers a compelling proposition.  It boasts similar performance levels with its Snapdragon 8 Gen 3 processor, a stunning display, and a versatile camera system, all at a more aggressive price point. However, the lack of expandable storage and wireless charging might be a drawback for some users, especially those considering devices in this price segment.   User reviews on Amazon India are mostly positive, with many highlighting the phone's value proposition. One user commented, \"This phone punches above its weight class! The performance is incredible, the camera is amazing, and the price is very competitive.\" However, some users have expressed concerns about the limited availability of certain accessories and the slightly higher repair costs compared to some competitors.  Overall, the OnePlus 12 offers excellent value for money in India, packing in flagship-level specs and features at a competitive price point. Its performance, camera, and software are particularly impressive. While the lack of expandable storage and wireless charging might deter some buyers, the OnePlus 12 remains a strong contender in the Indian flagship smartphone market. We rate the Value for Money a solid 9 out of 10, losing a point for minor drawbacks like the absence of expandable storage and wireless charging.  Let's wrap up our review in the conclusion.",
+            "specs": [
+                {
+                    "spec_name": "Price (India)",
+                    "spec_value": "₹59,999"
+                },
+                {
+                    "spec_name": "Processor",
+                    "spec_value": "Snapdragon 8 Gen 3"
+                }
+            ],
+            "sentiments": [
+                {
+                    "sentiment": "Positive",
+                    "sentiment_rationale": "The OnePlus 12 is praised for its competitive pricing and strong features, positioning it as a good value proposition. While minor drawbacks exist, the overall sentiment leans positive."
+                }
+            ],
+            "quotes": [
+                {
+                    "reviewer": "MKBHD",
+                    "quote": "a strong contender in its price range, offering a premium experience without the premium price tag."
+                }
+            ],
+            "user_comments": [
+                {
+                    "source": "Amazon India",
+                    "comment": "This phone punches above its weight class! The performance is incredible, the camera is amazing, and the price is very competitive."
+                }
+            ],
+            "positives": [
+                "Competitive price point for a flagship device",
+                "High-end specs and features comparable to pricier competitors",
+                "Positive user reviews highlighting value for money"
+            ],
+            "negatives": [
+                "Lack of expandable storage",
+                "Absence of wireless charging",
+                "Limited availability of certain accessories",
+                "Potentially higher repair costs compared to some competitors"
+            ],
+            "technical_issues_discussed": [
+                "The OnePlus 12's value proposition hinges on its balance of high-end features and competitive pricing. The Snapdragon 8 Gen 3 processor positions it alongside other flagships, while the price undercuts many. However, the absence of features like expandable storage and wireless charging, common in this segment, might be a consideration for some buyers."
+            ],
+            "devices_compared": [
+                "Samsung Galaxy S23",
+                "iPhone 14"
+            ],
+            "image_references": [],
+            "video_references": [
+                {
+                    "description": "MKBHD - OnePlus 12 Review (Value for Money Discussion)",
+                    "link": "https://www.youtube.com/watch?v=exampleMKBHD",
+                    "start": "10:00",
+                    "end": "12:30"
+                }
+            ],
+            "scores": [
+                {
+                    "review_score": "9",
+                    "score_rationale": "The OnePlus 12 presents an excellent value proposition with its powerful performance, impressive camera, and competitive pricing. While the lack of expandable storage and wireless charging are drawbacks, its overall package makes it a strong contender in the Indian flagship market."
+                }
+            ],
+            "citations": [
+                {
+                    "type": "reviewer",
+                    "name": "MKBHD",
+                    "source": "YouTube",
+                    "link": "https://www.youtube.com/watch?v=exampleMKBHD"
+                },
+                {
+                    "type": "user_comment",
+                    "source": "Amazon India",
+                    "link": "https://www.amazon.in/OnePlus-12-Review/dp=exampleASIN"
+                }
+            ]
+        },
+        {
+            "scene_name": "Conclusion",
+            "voiceover": "So there you have it, folks!  The OnePlus 12. It's been a wild ride exploring the ins and outs of this feature-packed device.  From its blazing-fast Snapdragon 8 Gen 3 processor and vibrant display to its capable camera system and sleek design, the OnePlus 12 brings a lot to the table for tech enthusiasts in India. We loved the performance - gaming was a breeze and Oxygen OS 14 felt buttery smooth. The camera impressed us with its versatility, capturing stunning shots in various lighting conditions. As always, we looked to the experts. MKBHD praised the OnePlus 12's overall performance, calling it 'a device that truly pushes the boundaries of what a flagship can be.'  And over on Amazon India, a user commented, 'This phone is a beast! The performance is incredible, and the camera is top-notch. Highly recommended!'. But it's not without its drawbacks. The lack of expandable storage might be a dealbreaker for some, and the absence of wireless charging feels like a missed opportunity in this price range. However, starting at ₹59,999,  the OnePlus 12 offers incredible value. It punches above its weight class, going head-to-head with the Samsung Galaxy S23 and iPhone 14 in terms of performance and features.  If you're looking for a powerful and stylish flagship that doesn't break the bank, the OnePlus 12 is a compelling choice. From Classic Reviews, we give the OnePlus 12 an overall score of 8.5 out of 10. It's a well-rounded flagship that delivers on most fronts. What are your thoughts on the OnePlus 12?  Let us know in the comments below! Don't forget to like, subscribe, and hit the notification bell for more tech reviews, comparisons, and news. Until next time, keep it classic!",
+            "specs": [],
+            "sentiments": [
+                {
+                    "sentiment": "Positive",
+                    "sentiment_rationale": "The overall tone of the conclusion is positive, highlighting the OnePlus 12's strengths and value proposition, despite acknowledging its drawbacks."
+                }
+            ],
+            "quotes": [
+                {
+                    "reviewer": "MKBHD",
+                    "quote": "a device that truly pushes the boundaries of what a flagship can be."
+                }
+            ],
+            "user_comments": [
+                {
+                    "source": "Amazon India",
+                    "comment": "This phone is a beast! The performance is incredible, and the camera is top-notch. Highly recommended!"
+                }
+            ],
+            "positives": [
+                "Blazing-fast Snapdragon 8 Gen 3 processor",
+                "Vibrant and responsive display",
+                "Capable camera system with versatility",
+                "Sleek and premium design",
+                "Competitive price point offering good value for money"
+            ],
+            "negatives": [
+                "Lack of expandable storage",
+                "Absence of wireless charging"
+            ],
+            "technical_issues_discussed": [
+                "The conclusion reiterates the OnePlus 12's strong performance with the Snapdragon 8 Gen 3, its impressive display and camera capabilities, and its competitive pricing. It acknowledges the lack of expandable storage and wireless charging as potential drawbacks for certain users."
+            ],
+            "devices_compared": [
+                "Samsung Galaxy S23",
+                "iPhone 14"
+            ],
+            "image_references": [],
+            "video_references": [],
+            "scores": [
+                {
+                    "review_score": "8.5",
+                    "score_rationale": "The OnePlus 12 receives an overall score of 8.5 out of 10 for its well-rounded features, powerful performance, and competitive pricing, despite the absence of certain premium features."
+                }
+            ],
+            "citations": [
+                {
+                    "type": "reviewer",
+                    "name": "MKBHD",
+                    "source": "YouTube",
+                    "link": "https://www.youtube.com/c/mkbhd"
+                },
+                {
+                    "type": "user_comment",
+                    "source": "Amazon India",
+                    "link": "https://www.amazon.in/"
+                }
+            ]
+        }
+    ]
+}

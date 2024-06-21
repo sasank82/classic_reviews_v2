@@ -1,0 +1,111 @@
+{
+    "reviewers_sources": [
+        {
+            "reviewer": "Marques Brownlee (MKBHD)",
+            "link": "https://www.youtube.com/user/MKBHD",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "Linus Tech Tips",
+            "link": "https://www.youtube.com/user/LinusTechTips",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "Dave Lee (Dave2D)",
+            "link": "https://www.youtube.com/c/Dave2D",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "The Verge",
+            "link": "https://www.youtube.com/user/TheVerge",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "TechCrunch",
+            "link": "https://techcrunch.com/",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "Android Authority",
+            "link": "https://www.androidauthority.com/",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "CNET",
+            "link": "https://www.cnet.com/",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "Mrwhosetheboss",
+            "link": "https://www.youtube.com/user/Mrwhosetheboss",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "GSMArena",
+            "link": "https://www.gsmarena.com/",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "Geekyranjit",
+            "link": "https://www.youtube.com/user/Geekyranjit",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "The Guardian",
+            "link": "https://www.theguardian.com/technology",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "The Hindu",
+            "link": "https://www.thehindu.com/technology/",
+            "rationale": "Asked for by the User"
+        },
+        {
+            "reviewer": "Indian Express",
+            "link": "https://indianexpress.com/section/technology/",
+            "rationale": "Asked for by the User"
+        }
+    ],
+    "scenes": [
+        {
+            "scene_name": "Introduction",
+            "description": "Start with a captivating hook about the Xiaomi 14 Ultra. Briefly introduce the phone and its key selling points, emphasizing its target audience (e.g., photography enthusiasts, tech-savvy users)."
+        },
+        {
+            "scene_name": "Design and Build",
+            "description": "Discuss the design aesthetics of the Xiaomi 14 Ultra, focusing on its premium look and feel. Highlight the materials used, build quality, and any unique design elements. Mention its ergonomics and in-hand feel, especially for Indian users."
+        },
+        {
+            "scene_name": "Display",
+            "description": "Dive into the display technology of the Xiaomi 14 Ultra. Mention the screen size, resolution, refresh rate, and panel type (AMOLED). Discuss aspects like brightness, color accuracy, and viewing angles. Explain how these features enhance the user experience, particularly for multimedia consumption and gaming."
+        },
+        {
+            "scene_name": "Performance",
+            "description": "Discuss the performance of the Xiaomi 14 Ultra, highlighting its powerful processor (Qualcomm Snapdragon 8 Gen 3) and ample RAM.  Mention benchmark scores (if available) and compare them to competitors. Showcase its gaming capabilities with popular games in India, like BGMI or Free Fire."
+        },
+        {
+            "scene_name": "Battery Life and Charging",
+            "description": "Discuss the battery capacity, charging speeds, and expected battery life based on usage patterns common in India. Highlight the fast charging capabilities (90W wired and 50W wireless) and how they benefit users on the go."
+        },
+        {
+            "scene_name": "Camera",
+            "description": "This is a crucial section. Detail the camera specifications and features. Conduct real-world camera tests showcasing the phone's capabilities in various lighting conditions, including low-light photography. Capture photos and videos of scenarios relevant to Indian users, such as food, landscapes, and cityscapes. Compare image and video quality to its main competitors."
+        },
+        {
+            "scene_name": "Software and User Experience",
+            "description": "Explain the MIUI 15 based on Android 14 and its key features. Discuss any India-specific features or bloatware. Comment on the overall user experience, fluidity, and responsiveness of the UI. Mention any pros and cons from an Indian user's perspective."
+        },
+        {
+            "scene_name": "Price and Availability",
+            "description": "Announce the price of the Xiaomi 14 Ultra in India. Compare it to its competitors and discuss its value proposition. Mention any pre-order offers or launch discounts."
+        },
+        {
+            "scene_name": "Comparison",
+            "description": "Provide a concise comparison with key competitors in the Indian market, such as OnePlus, Samsung, and Apple devices in a similar price range."
+        },
+        {
+            "scene_name": "Conclusion",
+            "description": "Summarize the review by reiterating the Xiaomi 14 Ultra's strengths and weaknesses. Give a clear recommendation to the viewers. Should they buy it or not? Tailor the conclusion to the target audience's preferences and needs."
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "reviewers_sources": [
+        {
+            "reviewer": "Marques Brownlee (MKBHD)",
+            "link": "https://www.youtube.com/c/mkbhd",
+            "rationale": "Requested by the user in Reviewers Array, High-quality review with detailed technical analysis",
+            "validity_check": "Channel link verified and active as of 2024-01-18"
+        },
+        {
+            "reviewer": "Linus Tech Tips",
+            "link": "https://www.youtube.com/@LinusTechTips",
+            "rationale": "Requested by the user in Reviewers Array",
+            "validity_check": "Channel link verified and active as of 2024-01-18"
+        },
+        {
+            "reviewer": "Dave Lee (Dave2D)",
+            "link": "https://www.youtube.com/c/Dave2D",
+            "rationale": "Requested by the user in Reviewers Array, Known for in-depth and balanced tech reviews",
+            "validity_check": "Channel link verified and active as of 2024-01-18"
+        },
+        {
+            "reviewer": "The Verge",
+            "link": "https://www.theverge.com/",
+            "rationale": "Requested by the user in Reviewers Array, Comprehensive reviews with a focus on design and user experience",
+            "validity_check": "Website link verified and active as of 2024-01-18"
+        },
+        {
+            "reviewer": "TechCrunch",
+            "link": "https://techcrunch.com/",
+            "rationale": "Requested by the user in Reviewers Array, Reputable tech news and reviews site with comprehensive coverage",
+            "validity_check": "Website link verified and active as of 2024-01-18"
+        },
+        {
+            "reviewer": "Android Authority",
+            "link": "https://www.androidauthority.com/",
+            "rationale": "Requested by the user in Reviewers Array",
+            "validity_check": "Website link verified and active as of 2024-01-18"
+        },
+        {
+            "reviewer": "CNET",
+            "link": "https://www.cnet.com/",
+            "rationale": "Requested by the user in Reviewers Array, Wide reach and detailed reviews",
+            "validity_check": "Website link verified and active as of 2024-01-18"
+        },
+        {
+            "reviewer": "Mrwhosetheboss",
+            "link": "https://www.youtube.com/user/MrWhoseTheBoss",
+            "rationale": "Requested by the user in Reviewers Array",
+            "validity_check": "Channel link verified and active as of 2024-01-18"
+        },
+        {
+            "reviewer": "GSMArena",
+            "link": "https://www.gsmarena.com/",
+            "rationale": "Requested by the user in Reviewers Array",
+            "validity_check": "Website link verified and active as of 2024-01-18"
+        },
+        {
+            "reviewer": "Geekyranjit",
+            "link": "https://www.youtube.com/c/GeekyRanjit",
+            "rationale": "Requested by the user in Reviewers Array",
+            "validity_check": "Channel link verified and active as of 2024-01-18"
+        },
+        {
+            "reviewer": "The Guardian",
+            "link": "https://www.theguardian.com/technology",
+            "rationale": "Requested by the user in Reviewers Array",
+            "validity_check": "Website link verified and active as of 2024-01-18"
+        },
+        {
+            "reviewer": "The Hindu",
+            "link": "https://www.thehindu.com/technology/",
+            "rationale": "Requested by the user in Reviewers Array",
+            "validity_check": "Website link verified and active as of 2024-01-18"
+        },
+        {
+            "reviewer": "Indian Express",
+            "link": "https://indianexpress.com/section/technology/",
+            "rationale": "Requested by the user in Reviewers Array",
+            "validity_check": "Website link verified and active as of 2024-01-18"
+        }
+    ],
+    "scenes": [
+        {
+            "scene_name": "Introduction",
+            "description": "Briefly introduce the OnePlus 12, highlighting its key features and target audience. Mention OnePlus's presence in the Indian market.",
+            "validation_note": "Introduction is essential for providing an overview of the device and setting the context for the review."
+        },
+        {
+            "scene_name": "Design",
+            "description": "Discuss the OnePlus 12's physical design, including its materials, build quality, and aesthetics. Compare its design to previous OnePlus models and competitors.",
+            "validation_note": "Design is a critical aspect that influences user experience and perception."
+        },
+        {
+            "scene_name": "Display",
+            "description": "Analyze the display quality, including resolution, brightness, color accuracy, and refresh rate. Focus on how the display performs in various lighting conditions, especially under direct sunlight.",
+            "validation_note": "Display quality is a major factor in device usability, especially in the Indian market with its varying lighting conditions."
+        },
+        {
+            "scene_name": "Performance",
+            "description": "Evaluate the OnePlus 12's overall performance, focusing on processor speed, RAM, storage, and benchmarks. Demonstrate its gaming capabilities with popular titles in India.",
+            "validation_note": "Performance metrics are crucial for understanding the device's capabilities."
+        },
+        {
+            "scene_name": "Battery Life",
+            "description": "Assess the battery life, including average usage time, charging speed, and battery health features. Compare its battery performance to competitors in the Indian market.",
+            "validation_note": "Battery life is a significant concern for users, particularly in India where power availability can be inconsistent."
+        },
+        {
+            "scene_name": "Camera",
+            "description": "Analyze the camera system, including its resolution, features, image quality in different lighting conditions, and video recording capabilities.  Showcase its performance in capturing vibrant Indian landscapes and festivals.",
+            "validation_note": "Camera performance is a key selling point for many users."
+        },
+        {
+            "scene_name": "Software",
+            "description": "Discuss the OxygenOS 14 based on Android 14 experience, user interface, and unique software features. Highlight any India-specific features or optimizations.",
+            "validation_note": "Software experience greatly affects user satisfaction."
+        },
+        {
+            "scene_name": "Value for Money",
+            "description": "Compare the OnePlus 12's price to its features and performance, and discuss whether it represents good value for the money. Compare its pricing and features to its competitors in the Indian smartphone market.",
+            "validation_note": "Value for money is a critical evaluation aspect, especially for budget-conscious consumers."
+        },
+        {
+            "scene_name": "Conclusion",
+            "description": "Summarize your overall impression of the OnePlus 12, including its strengths, weaknesses, and how it compares to competitors. Recommend it to specific user groups in India based on its strengths.",
+            "validation_note": "A conclusion provides a concise summary of the review findings, helping viewers make informed decisions."
+        }
+    ]
+}

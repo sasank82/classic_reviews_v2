@@ -1,0 +1,107 @@
+{
+    "reviewers_sources": [
+        {
+            "reviewer": "Marques Brownlee (MKBHD)",
+            "link": "https://www.youtube.com/user/MKBHD",
+            "rationale": "Highly respected in the tech community for detailed and high-quality reviews."
+        },
+        {
+            "reviewer": "Linus Tech Tips",
+            "link": "https://www.youtube.com/user/LinusTechTips",
+            "rationale": "Known for thorough and entertaining reviews with a focus on technical details."
+        },
+        {
+            "reviewer": "Dave Lee (Dave2D)",
+            "link": "https://www.youtube.com/user/Dave2D",
+            "rationale": "Provides balanced and concise reviews, often with a focus on design and performance."
+        },
+        {
+            "reviewer": "The Verge",
+            "link": "https://www.theverge.com",
+            "rationale": "Popular tech news website with comprehensive reviews and analysis."
+        },
+        {
+            "reviewer": "TechCrunch",
+            "link": "https://techcrunch.com",
+            "rationale": "Well-known for in-depth and industry-focused reviews."
+        },
+        {
+            "reviewer": "Android Authority",
+            "link": "https://www.androidauthority.com",
+            "rationale": "Specializes in Android devices with detailed and extensive reviews."
+        },
+        {
+            "reviewer": "CNET",
+            "link": "https://www.cnet.com",
+            "rationale": "Provides a broad range of tech reviews with a focus on consumer technology."
+        },
+        {
+            "reviewer": "Mrwhosetheboss",
+            "link": "https://www.youtube.com/user/Mrwhosetheboss",
+            "rationale": "Popular YouTube reviewer known for engaging and visually appealing reviews."
+        },
+        {
+            "reviewer": "GSMArena",
+            "link": "https://www.gsmarena.com",
+            "rationale": "Offers highly detailed specifications and reviews, especially for mobile devices."
+        },
+        {
+            "reviewer": "Geekyranjit",
+            "link": "https://www.youtube.com/user/geekyranjit",
+            "rationale": "Popular Indian tech reviewer with a focus on practical, real-world usage."
+        },
+        {
+            "reviewer": "The Guardian",
+            "link": "https://www.theguardian.com/technology",
+            "rationale": "Respected news outlet with a technology section that includes gadget reviews."
+        },
+        {
+            "reviewer": "The Hindu",
+            "link": "https://www.thehindu.com/sci-tech/technology/",
+            "rationale": "Prominent Indian newspaper with technology reviews relevant to the local audience."
+        },
+        {
+            "reviewer": "Indian Express",
+            "link": "https://indianexpress.com/section/technology/",
+            "rationale": "Major Indian news outlet with a focus on technology and gadget reviews."
+        }
+    ],
+    "scenes": [
+        {
+            "scene_name": "Introduction",
+            "description": "Briefly introduce the Pixel 8 Pro, highlighting its key features and target audience."
+        },
+        {
+            "scene_name": "Design",
+            "description": "Discuss the Pixel 8 Pro's physical design, including its materials, build quality, and aesthetics."
+        },
+        {
+            "scene_name": "Display",
+            "description": "Analyze the display quality, including resolution, brightness, color accuracy, and refresh rate."
+        },
+        {
+            "scene_name": "Performance",
+            "description": "Evaluate the Pixel 8 Pro's overall performance, focusing on the Google Tensor G3 processor, RAM, storage, and benchmarks."
+        },
+        {
+            "scene_name": "Battery Life",
+            "description": "Assess the battery life, including average usage time, charging speed, and battery health features."
+        },
+        {
+            "scene_name": "Camera",
+            "description": "Analyze the camera system, including its resolution, features, image quality in different lighting conditions, and video recording capabilities."
+        },
+        {
+            "scene_name": "Software",
+            "description": "Discuss the operating system (Android 14), user interface, and unique software features."
+        },
+        {
+            "scene_name": "Value for Money",
+            "description": "Compare the Pixel 8 Pro's price to its features and performance, and discuss whether it represents good value for the money."
+        },
+        {
+            "scene_name": "Conclusion",
+            "description": "Summarize your overall impression of the Pixel 8 Pro, including its strengths, weaknesses, and how it compares to competitors."
+        }
+    ]
+}

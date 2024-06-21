@@ -1,0 +1,107 @@
+{
+    "reviewers_sources": [
+        {
+            "reviewer": "Marques Brownlee (MKBHD)",
+            "link": "https://www.youtube.com/user/MKBHD",
+            "rationale": "Asked for by the User. Highly respected tech reviewer known for in-depth analysis and high-quality videos."
+        },
+        {
+            "reviewer": "Linus Tech Tips",
+            "link": "https://www.youtube.com/user/LinusTechTips",
+            "rationale": "Asked for by the User. Popular tech channel with a focus on entertainment and detailed technical explanations."
+        },
+        {
+            "reviewer": "Dave Lee (Dave2D)",
+            "link": "https://www.youtube.com/c/Dave2D",
+            "rationale": "Asked for by the User. Knowledgeable reviewer with a focus on design, user experience, and camera performance."
+        },
+        {
+            "reviewer": "The Verge",
+            "link": "https://www.youtube.com/user/TheVerge",
+            "rationale": "Asked for by the User. Reputable tech publication with a focus on design, culture, and technology's impact."
+        },
+        {
+            "reviewer": "TechCrunch",
+            "link": "https://techcrunch.com/",
+            "rationale": "Asked for by the User. Leading technology media outlet covering startups, reviews, and industry news."
+        },
+        {
+            "reviewer": "Android Authority",
+            "link": "https://www.androidauthority.com/",
+            "rationale": "Asked for by the User. Website dedicated to providing news, reviews, and comprehensive coverage of the Android ecosystem. Relevant for an Android device."
+        },
+        {
+            "reviewer": "CNET",
+            "link": "https://www.cnet.com/",
+            "rationale": "Asked for by the User. Popular tech website offering reviews, news, and downloads for a wide range of consumer electronics."
+        },
+        {
+            "reviewer": "Mrwhosetheboss",
+            "link": "https://www.youtube.com/user/Mrwhosetheboss",
+            "rationale": "Asked for by the User. Tech YouTuber known for creative camera tests and detailed smartphone reviews."
+        },
+        {
+            "reviewer": "GSMArena",
+            "link": "https://www.gsmarena.com/",
+            "rationale": "Asked for by the User. Website specializing in in-depth mobile phone reviews, specifications, and comparisons."
+        },
+        {
+            "reviewer": "Geekyranjit",
+            "link": "https://www.youtube.com/user/Geekyranjit",
+            "rationale": "Asked for by the User. Popular Indian tech YouTuber known for Hindi-language reviews and catering to an Indian audience."
+        },
+        {
+            "reviewer": "The Guardian",
+            "link": "https://www.theguardian.com/technology",
+            "rationale": "Asked for by the User. Reputable news source with a dedicated technology section, offering reviews and analysis."
+        },
+        {
+            "reviewer": "The Hindu",
+            "link": "https://www.thehindu.com/technology/",
+            "rationale": "Major Indian newspaper with a dedicated technology section, offering insights for the Indian market."
+        },
+        {
+            "reviewer": "Indian Express",
+            "link": "https://indianexpress.com/section/technology/",
+            "rationale": "Prominent Indian news publication with a technology section, relevant for insights tailored to Indian consumers."
+        }
+    ],
+    "scenes": [
+        {
+            "scene_name": "Introduction",
+            "description": "Start with a captivating hook about foldable phones. Introduce the OnePlus Open as OnePlus's entry into the foldable market, emphasizing its target audience (tech enthusiasts, professionals looking for a premium experience)."
+        },
+        {
+            "scene_name": "Design & Build",
+            "description": "Discuss the phone's design, highlighting its hinge mechanism, materials used, and overall build quality.  Showcase how it looks and feels when folded and unfolded. Discuss any design elements specific to the Indian market, like durability in various weather conditions."
+        },
+        {
+            "scene_name": "Display",
+            "description": "Review both the cover and inner displays. Focus on aspects like brightness, color accuracy, refresh rate, and how well they perform in various lighting conditions, especially under the Indian sun.  Demonstrate the crease and its visibility (or lack thereof)."
+        },
+        {
+            "scene_name": "Performance",
+            "description": "Highlight the processor, RAM, and storage. Conduct benchmark tests and gaming tests, comparing the results with other flagship devices. Emphasize real-world performance based on usage patterns common in India (like using ride-hailing apps, social media, and multitasking)."
+        },
+        {
+            "scene_name": "Battery Life",
+            "description": "Discuss the battery capacity and charging speed.  Provide real-world battery life estimates based on usage patterns like video streaming, gaming, and calling. Compare the OnePlus Open's battery performance to other foldable phones."
+        },
+        {
+            "scene_name": "Camera",
+            "description": "Analyze the camera system, covering all lenses. Take sample shots and videos in various lighting conditions common in India (bright daylight, low light, indoors). Compare camera performance to key competitors. Highlight any India-specific camera features or software optimizations."
+        },
+        {
+            "scene_name": "Software & User Experience",
+            "description": "Discuss OxygenOS, its features, and how well it's optimized for a foldable device.  Showcase unique software features and discuss their usefulness. Mention any bloatware (if present) and its impact on the user experience."
+        },
+        {
+            "scene_name": "Value for Money & Comparison",
+            "description": "Compare the OnePlus Open's price and features to other foldable phones available in India. Discuss its value proposition and who should consider buying it.  Address how it competes with devices from Samsung, Google, etc."
+        },
+        {
+            "scene_name": "Conclusion",
+            "description": "Summarize the review, highlighting the OnePlus Open's strengths and weaknesses. Give a clear recommendation on whether to buy it or not, specifically for the Indian audience.  Mention any alternative options available in the market."
+        }
+    ]
+}

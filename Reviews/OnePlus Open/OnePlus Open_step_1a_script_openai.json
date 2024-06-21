@@ -1,0 +1,107 @@
+{
+    "reviewers_sources": [
+        {
+            "reviewer": "Marques Brownlee (MKBHD)",
+            "link": "https://www.youtube.com/user/MKBHD",
+            "rationale": "Known for in-depth reviews and high production quality."
+        },
+        {
+            "reviewer": "Linus Tech Tips",
+            "link": "https://www.youtube.com/user/LinusTechTips",
+            "rationale": "Provides detailed technical analysis and comparisons."
+        },
+        {
+            "reviewer": "Dave Lee (Dave2D)",
+            "link": "https://www.youtube.com/user/Dave2D",
+            "rationale": "Offers balanced reviews focusing on both pros and cons."
+        },
+        {
+            "reviewer": "The Verge",
+            "link": "https://www.theverge.com",
+            "rationale": "Covers a wide range of tech topics with professional reviews."
+        },
+        {
+            "reviewer": "TechCrunch",
+            "link": "https://techcrunch.com",
+            "rationale": "Provides detailed insights into new tech products and trends."
+        },
+        {
+            "reviewer": "Android Authority",
+            "link": "https://www.androidauthority.com",
+            "rationale": "Specializes in Android devices with thorough reviews."
+        },
+        {
+            "reviewer": "CNET",
+            "link": "https://www.cnet.com",
+            "rationale": "Well-known for comprehensive and user-friendly reviews."
+        },
+        {
+            "reviewer": "Mrwhosetheboss",
+            "link": "https://www.youtube.com/user/Mrwhosetheboss",
+            "rationale": "Popular for engaging and detailed tech reviews."
+        },
+        {
+            "reviewer": "GSMArena",
+            "link": "https://www.gsmarena.com",
+            "rationale": "Known for detailed specifications and performance reviews."
+        },
+        {
+            "reviewer": "Geekyranjit",
+            "link": "https://www.youtube.com/user/geekyranjit",
+            "rationale": "Popular Indian tech reviewer with a focus on practicality."
+        },
+        {
+            "reviewer": "The Guardian",
+            "link": "https://www.theguardian.com/technology",
+            "rationale": "Respected publication with in-depth tech analysis."
+        },
+        {
+            "reviewer": "The Hindu",
+            "link": "https://www.thehindu.com/sci-tech/technology",
+            "rationale": "Well-regarded Indian newspaper with tech reviews."
+        },
+        {
+            "reviewer": "Indian Express",
+            "link": "https://indianexpress.com/section/technology",
+            "rationale": "Prominent Indian publication providing tech coverage."
+        }
+    ],
+    "scenes": [
+        {
+            "scene_name": "Introduction",
+            "description": "Briefly introduce the OnePlus Open, highlighting its key features and what makes it stand out in the market."
+        },
+        {
+            "scene_name": "Design",
+            "description": "Discuss the physical design of the OnePlus Open, including its materials, build quality, aesthetics, and folding mechanism."
+        },
+        {
+            "scene_name": "Display",
+            "description": "Analyze the display quality of both the main and cover screens, including resolution, brightness, color accuracy, and refresh rate."
+        },
+        {
+            "scene_name": "Performance",
+            "description": "Evaluate the device's overall performance, focusing on the Snapdragon 8 Gen 2 processor, RAM, storage options, and benchmark results."
+        },
+        {
+            "scene_name": "Battery Life",
+            "description": "Assess the battery life, including average usage time, charging speed with the 67W fast charger, and battery health features."
+        },
+        {
+            "scene_name": "Camera",
+            "description": "Analyze the camera system, including the 50MP wide, 48MP ultrawide, and 64MP telephoto lenses, as well as the 32MP cover and 20MP inner front cameras. Discuss image quality, features, and video capabilities."
+        },
+        {
+            "scene_name": "Software",
+            "description": "Discuss the OxygenOS based on Android 13, including the user interface, unique software features, and any bloatware."
+        },
+        {
+            "scene_name": "Value for Money",
+            "description": "Compare the OnePlus Open's price to its features and performance, and discuss whether it represents good value for money in the Indian market."
+        },
+        {
+            "scene_name": "Conclusion",
+            "description": "Summarize the overall impression of the OnePlus Open, including its strengths, weaknesses, and how it compares to competitors. Provide a final recommendation."
+        }
+    ]
+}

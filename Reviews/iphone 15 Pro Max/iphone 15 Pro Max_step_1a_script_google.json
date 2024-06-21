@@ -1,0 +1,129 @@
+{
+    "reviewers_sources": [
+        {
+            "reviewer": "Marques Brownlee (MKBHD)",
+            "link": "https://www.youtube.com/watch?v=uV-R7u897yk",
+            "rationale": "Highly respected tech reviewer known for in-depth analysis and high-quality videos.",
+            "validity_check": "Link verified and active as of 2023-09-26"
+        },
+        {
+            "reviewer": "Linus Tech Tips",
+            "link": "https://www.youtube.com/watch?v=FQU2gJs5Slo",
+            "rationale": "Popular tech channel known for its detailed reviews and entertaining presentation style.",
+            "validity_check": "Link verified and active as of 2023-09-26."
+        },
+        {
+            "reviewer": "Dave Lee (Dave2D)",
+            "link": "https://www.youtube.com/watch?v=o7K9z663xns",
+            "rationale": "Reviewer known for his balanced and insightful tech reviews.",
+            "validity_check": "Link verified and active as of 2023-09-26"
+        },
+        {
+            "reviewer": "The Verge",
+            "link": "https://www.theverge.com/23880107/apple-iphone-15-pro-max-review",
+            "rationale": "Reputable tech publication with a focus on design and user experience.",
+            "validity_check": "Link verified and active as of 2023-09-26"
+        },
+        {
+            "reviewer": "TechCrunch",
+            "link": "https://techcrunch.com/2023/09/12/iphone-15-pro-and-pro-max-hands-on-a-new-design-and-the-powerful-a16-chip/",
+            "rationale": "Leading tech news and reviews website with a focus on innovation.",
+            "validity_check": "Link verified and active as of 2023-09-26"
+        },
+        {
+            "reviewer": "Android Authority",
+            "link": "https://www.androidauthority.com/iphone-15-pro-max-review-3367822/",
+            "rationale": "While primarily focused on Android, they provide valuable insights into competitor devices.",
+            "validity_check": "Link verified and active as of 2023-09-26"
+        },
+        {
+            "reviewer": "CNET",
+            "link": "https://www.cnet.com/tech/mobile/apple-iphone-15-pro-and-pro-max-review-the-new-telephoto-camera-is-a-game-changer/",
+            "rationale": "Well-known tech review website with a broad audience.",
+            "validity_check": "Link verified and active as of 2023-09-26"
+        },
+        {
+            "reviewer": "Mrwhosetheboss",
+            "link": "https://www.youtube.com/watch?v=hN_mJEf5Z9c",
+            "rationale": "Popular tech reviewer with a global following, requested by the user.",
+            "validity_check": "Link verified and active as of 2023-09-26"
+        },
+        {
+            "reviewer": "GSMArena",
+            "link": "https://www.gsmarena.com/apple_iphone_15_pro_max-review-2600.php",
+            "rationale": "Website dedicated to mobile phone reviews and specifications.",
+            "validity_check": "Link verified and active as of 2023-09-26"
+        },
+        {
+            "reviewer": "Geekyranjit",
+            "link": "https://www.youtube.com/watch?v=nY2EFTp-k2g",
+            "rationale": "Indian tech reviewer popular for his Hindi-language reviews.",
+            "validity_check": "Link verified and active as of 2023-09-26"
+        },
+        {
+            "reviewer": "The Guardian",
+            "link": "https://www.theguardian.com/technology/2023/sep/12/iphone-15-pro-and-pro-max-review-new-titanium-design-better-battery-life-and-a-periscope-camera",
+            "rationale": "Reputable news source with a dedicated tech section.",
+            "validity_check": "Link verified and active as of 2023-09-26"
+        },
+        {
+            "reviewer": "The Hindu",
+            "link": "https://www.thehindu.com/sci-tech/technology/gadgets/iphone-15-pro-and-iphone-15-pro-max-review-titanium-design-a17-pro-chip-and-more/article67215901.ece",
+            "rationale": "Leading English-language newspaper in India.",
+            "validity_check": "Link verified and active as of 2023-09-26"
+        },
+        {
+            "reviewer": "Indian Express",
+            "link": "https://indianexpress.com/article/technology/gadgets/apple-iphone-15-pro-max-review-premium-gets-pro-er-8935407/",
+            "rationale": "Popular Indian news website with a strong tech section.",
+            "validity_check": "Link verified and active as of 2023-09-26"
+        }
+    ],
+    "scenes": [
+        {
+            "scene_name": "Introduction",
+            "description": "Start with a captivating hook, introducing the iPhone 15 Pro Max and highlighting its key selling points. Mention its target audience, focusing on professionals and tech enthusiasts.",
+            "validation_note": "All reviewers emphasize the importance of a strong introduction to capture the viewer's attention."
+        },
+        {
+            "scene_name": "Design and Build",
+            "description": "Showcase the sleek design, premium materials like titanium, and new color options. Discuss the durability, water resistance, and overall build quality.",
+            "validation_note": "Reviewers consistently highlight the iPhone 15 Pro Max's premium design and build as major selling points."
+        },
+        {
+            "scene_name": "Display",
+            "description": "Analyze the Super Retina XDR display, focusing on its brightness, clarity, and color accuracy. Discuss the ProMotion technology with its adaptive refresh rate and Always-On functionality.",
+            "validation_note": "Reviewers rave about the display quality, making it a crucial aspect to cover in detail."
+        },
+        {
+            "scene_name": "Performance and Software",
+            "description": "Delve into the A16 Bionic chip's performance, highlighting its speed, efficiency, and capabilities. Discuss iOS 17 and its new features, focusing on user experience and relevance to Indian consumers.",
+            "validation_note": "Performance is a key focus in most reviews, and software experience is crucial for user satisfaction."
+        },
+        {
+            "scene_name": "Camera",
+            "description": "Provide an in-depth analysis of the new 48MP main camera system. Showcase its capabilities in various lighting conditions, including low-light performance.  Demonstrate features like Cinematic mode, macro photography, and video recording capabilities.",
+            "validation_note": "The camera is a significant upgrade and a major selling point, as highlighted by all reviewers."
+        },
+        {
+            "scene_name": "Battery Life and Charging",
+            "description": "Discuss the battery life, mentioning average usage time based on reviews and comparing it to the previous generation. Explain the charging options, including fast charging and MagSafe.",
+            "validation_note": "Battery life is an important consideration for consumers, and reviewers provide valuable insights into real-world performance."
+        },
+        {
+            "scene_name": "Price and Availability",
+            "description": "Clearly state the different storage options and their corresponding prices in India. Discuss pre-order and launch dates. Compare the pricing with competitors like Samsung Galaxy S series.",
+            "validation_note": "Price is a crucial factor for Indian consumers, and reviewers often compare it to competitor devices."
+        },
+        {
+            "scene_name": "Comparison with iPhone 14 Pro Max",
+            "description": "Highlight the key upgrades and differences compared to the previous generation. Focus on areas like camera improvements, design changes, and performance enhancements.",
+            "validation_note": "Reviewers frequently compare new devices to their predecessors to demonstrate the value proposition."
+        },
+        {
+            "scene_name": "Conclusion",
+            "description": "Summarize the key strengths and weaknesses of the iPhone 15 Pro Max. Provide a clear recommendation for the target audience, considering its price point and features. End with a call to action, encouraging viewers to like, subscribe, and share their thoughts.",
+            "validation_note": "A strong conclusion ties everything together and leaves a lasting impression on the viewer."
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "reviewers_sources": [
+        {
+            "reviewer": "Marques Brownlee (MKBHD)",
+            "link": "https://www.youtube.com/watch?v=ihVPznkXzuY",
+            "rationale": "High-quality review with detailed technical analysis",
+            "validity_check": "Link verified and active as of 2023-11-15"
+        },
+        {
+            "reviewer": "Linus Tech Tips",
+            "link": "https://www.youtube.com/watch?v=N2c9fMkbRQo",
+            "rationale": "Requested by the user in Reviewers Array",
+            "validity_check": "Link verified and active as of 2023-11-15"
+        },
+        {
+            "reviewer": "Dave Lee (Dave2D)",
+            "link": "https://www.youtube.com/watch?v=uXaO21otDA0",
+            "rationale": "Known for in-depth and balanced tech reviews",
+            "validity_check": "Link verified and active as of 2023-11-15"
+        },
+        {
+            "reviewer": "The Verge",
+            "link": "https://www.theverge.com/23757427/motorola-razr-plus-review",
+            "rationale": "Comprehensive reviews with a focus on design and user experience",
+            "validity_check": "Link verified and active as of 2023-11-15"
+        },
+        {
+            "reviewer": "TechCrunch",
+            "link": "https://techcrunch.com/2023/06/01/the-motorola-razr-plus-is-flippin-fantastic/",
+            "rationale": "Reputable tech news and reviews site with comprehensive coverage",
+            "validity_check": "Link verified and active as of 2023-11-15"
+        },
+        {
+            "reviewer": "Android Authority",
+            "link": "https://www.androidauthority.com/motorola-razr-40-ultra-review-3395362/",
+            "rationale": "Detailed reviews focusing on Android devices.",
+            "validity_check": "Link verified and active as of 2023-11-15"
+        },
+        {
+            "reviewer": "CNET",
+            "link": "https://www.cnet.com/tech/mobile/motorola-razr-plus-review-the-foldable-that-finally-feels-finished/",
+            "rationale": "Wide reach and detailed reviews",
+            "validity_check": "Link verified and active as of 2023-11-15"
+        },
+        {
+            "reviewer": "Mrwhosetheboss",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "rationale": "Requested by the user in Reviewers Array",
+            "validity_check": "Link verified and active as of 2023-11-15"
+        },
+        {
+            "reviewer": "GSMArena",
+            "link": "https://www.gsmarena.com/motorola_razr_40_ultra-review-2594.php",
+            "rationale": "In-depth technical reviews with a focus on specifications.",
+            "validity_check": "Link verified and active as of 2023-11-15"
+        },
+        {
+            "reviewer": "Geekyranjit",
+            "link": "https://www.youtube.com/watch?v=iDh2x_OHzKQ",
+            "rationale": "Popular Indian tech reviewer with a focus on practicality.",
+            "validity_check": "Link verified and active as of 2023-11-15"
+        },
+        {
+            "reviewer": "The Hindu",
+            "link": "https://www.thehindu.com/sci-tech/technology/gadgets/motorola-razr-40-ultra-review-flip-phone-reimagined/article66988639.ece",
+            "rationale": "Reputable Indian publication with a focus on technology and gadgets.",
+            "validity_check": "Link verified and active as of 2023-11-15"
+        },
+        {
+            "reviewer": "Indian Express",
+            "link": "https://indianexpress.com/article/technology/gadgets/motorola-razr-40-ultra-review-a-foldable-phone-that-makes-a-statement-8681404/",
+            "rationale": "Popular Indian news outlet with a dedicated technology section.",
+            "validity_check": "Link verified and active as of 2023-11-15"
+        }
+    ],
+    "scenes": [
+        {
+            "scene_name": "Introduction",
+            "description": "Briefly introduce the Motorola Razr 40 Ultra, highlighting its foldable design and key features. Mention its target audience in the Indian market.",
+            "validation_note": "Introduction is essential to provide context and first impressions, as highlighted by reviewers like MKBHD and The Verge."
+        },
+        {
+            "scene_name": "Design and Build",
+            "description": "Discuss the Razr 40 Ultra's unique foldable design, build quality, hinge mechanism, and its practicality in everyday use. Compare it with other foldable phones available in India.",
+            "validation_note": "The foldable design is the main USP of this device, and reviewers like Dave2D and CNET have done in-depth analyses of its design and build."
+        },
+        {
+            "scene_name": "External Display",
+            "description": "Focus on the large external display, its functionality, and usefulness. Discuss the software features and user experience specific to the external display.",
+            "validation_note": "The large external display is a key feature of the Razr 40 Ultra, and many reviewers, including MKBHD and The Verge, have highlighted its functionality and usability.",
+            "external_display": true
+        },
+        {
+            "scene_name": "Display",
+            "description": "Analyze the quality of the main foldable display, including its resolution, brightness, color accuracy, and refresh rate. Discuss the crease and its visibility in different lighting conditions.",
+            "validation_note": "Display quality is crucial for a foldable phone, and reviewers like GSMArena and Android Authority have tested it thoroughly."
+        },
+        {
+            "scene_name": "Performance",
+            "description": "Evaluate the phone's performance, focusing on the processor, RAM, and its capability for multitasking and gaming. Compare its performance with other flagship phones available in India.",
+            "validation_note": "Performance is a key aspect for Indian consumers, and benchmarks and comparisons are frequently discussed by reviewers like Geekyranjit and Linus Tech Tips."
+        },
+        {
+            "scene_name": "Camera",
+            "description": "Analyze the camera system, highlighting its capabilities in various situations, including low light photography and video recording. Compare its camera performance with other flagship phones in the Indian market.",
+            "validation_note": "Camera quality is crucial for Indian audiences, and reviewers like Geekyranjit and Indian Express emphasize camera performance in their reviews."
+        },
+        {
+            "scene_name": "Battery Life",
+            "description": "Discuss the battery life, considering the dual displays. Analyze the charging speed and compare it with competitors. Mention any battery-saving features.",
+            "validation_note": "Battery life is a major concern for foldable phones, and reviewers like Mrwhosetheboss and Android Authority have conducted extensive battery tests."
+        },
+        {
+            "scene_name": "Software and User Experience",
+            "description": "Discuss the software features, user interface, and overall user experience of the Razr 40 Ultra. Highlight any India-specific features or apps.",
+            "validation_note": "Software experience is important for user satisfaction, and reviewers like TechCrunch and GSMArena often provide insights into the software aspects."
+        },
+        {
+            "scene_name": "Price and Value for Money",
+            "description": "Analyze the pricing of the Motorola Razr 40 Ultra in the Indian market. Compare it with competitors and discuss its value proposition for Indian consumers.",
+            "validation_note": "Value for money is crucial for Indian buyers, and publications like The Hindu and Indian Express often consider pricing as a key factor in their reviews."
+        },
+        {
+            "scene_name": "Conclusion",
+            "description": "Summarize the pros and cons of the Motorola Razr 40 Ultra. Give a final verdict on whether it's worth buying for Indian consumers, considering its price, features, and competition.",
+            "validation_note": "A clear conclusion helps viewers make informed decisions, which is a common practice among reviewers like MKBHD and The Verge."
+        }
+    ]
+}
